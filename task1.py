@@ -7,4 +7,3 @@ def evenorno(num1):
         print('False')
 
 evenorno(num1)
-
