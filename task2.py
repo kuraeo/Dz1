@@ -9,3 +9,4 @@ for char in text1:
         count = count+1
 
 print("Голосних у тексті:", count)
+
